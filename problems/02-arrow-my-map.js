@@ -25,8 +25,7 @@ const arrowMyMap = (array, cb) => {
   return newArray;
 }
 // your code here!
-let result1 = arrowMyMap([100, 25, 81, 64], Math.sqrt);
-console.log(result1);   // [ 10, 5, 9, 8 ]
+
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
 
 try {
